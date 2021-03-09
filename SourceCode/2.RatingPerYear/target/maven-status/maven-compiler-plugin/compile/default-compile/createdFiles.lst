@@ -1,0 +1,8 @@
+com/neu/edu/ratingperyear/YearComparator.class
+com/neu/edu/ratingperyear/YearPartitioner.class
+com/neu/edu/ratingperyear/AverageCountWritable.class
+com/neu/edu/ratingperyear/SecSortingComparator.class
+com/neu/edu/ratingperyear/YearReducer.class
+com/neu/edu/ratingperyear/Driver.class
+com/neu/edu/ratingperyear/CompositeKeyWritable.class
+com/neu/edu/ratingperyear/YearMapper.class

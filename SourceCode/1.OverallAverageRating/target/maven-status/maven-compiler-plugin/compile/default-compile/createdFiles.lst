@@ -1,0 +1,6 @@
+com/neu/edu/overallrating/RatingReducer.class
+com/neu/edu/overallrating/AverageCountWritable.class
+com/neu/edu/overallrating/Driver.class
+com/neu/edu/overallrating/ProductsWritable.class
+com/neu/edu/overallrating/RatingMapper.class
+com/neu/edu/overallrating/AveragePartitioner.class

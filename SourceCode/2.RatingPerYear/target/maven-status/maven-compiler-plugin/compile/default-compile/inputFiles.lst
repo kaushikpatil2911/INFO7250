@@ -1,0 +1,8 @@
+/Users/kaushikpatil/Downloads/BigDataProject/SourceCode/2.RatingPerYear/src/main/java/com/neu/edu/ratingperyear/CompositeKeyWritable.java
+/Users/kaushikpatil/Downloads/BigDataProject/SourceCode/2.RatingPerYear/src/main/java/com/neu/edu/ratingperyear/Driver.java
+/Users/kaushikpatil/Downloads/BigDataProject/SourceCode/2.RatingPerYear/src/main/java/com/neu/edu/ratingperyear/YearReducer.java
+/Users/kaushikpatil/Downloads/BigDataProject/SourceCode/2.RatingPerYear/src/main/java/com/neu/edu/ratingperyear/YearPartitioner.java
+/Users/kaushikpatil/Downloads/BigDataProject/SourceCode/2.RatingPerYear/src/main/java/com/neu/edu/ratingperyear/SecSortingComparator.java
+/Users/kaushikpatil/Downloads/BigDataProject/SourceCode/2.RatingPerYear/src/main/java/com/neu/edu/ratingperyear/YearComparator.java
+/Users/kaushikpatil/Downloads/BigDataProject/SourceCode/2.RatingPerYear/src/main/java/com/neu/edu/ratingperyear/YearMapper.java
+/Users/kaushikpatil/Downloads/BigDataProject/SourceCode/2.RatingPerYear/src/main/java/com/neu/edu/ratingperyear/AverageCountWritable.java
